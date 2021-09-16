@@ -7,7 +7,7 @@ spring:
   name: eureka-server
 eureka:
   client:
-  #�˿ͻ����Ƿ��ȡeureka������ע����ϵ�ע����Ϣ��Ĭ��Ϊtrue1122
+  #�˿ͻ����Ƿ��ȡeureka������ע����ϵ�ע����Ϣ��Ĭ��Ϊtruedev
   fetch-registry: false
   #ʵ���Ƿ���eureka��������ע���Լ�����Ϣ�Թ����������֣�Ĭ��Ϊtrue,���Լ�ע���Լ���
   register-with-eureka: true
